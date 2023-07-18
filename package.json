@@ -1,0 +1,15 @@
+{
+  "name": "google_meet_clone",
+  "version": "1.0.0",
+  "description": "this is the clone of google meet. Here I'm using MERN stack and webRTC to create connection between the peers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.1"
+  }
+}
